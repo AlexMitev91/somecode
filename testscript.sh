@@ -6,4 +6,4 @@ echo "Welcome from GitHub"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
 
-ehco "Added hook"
+ehco "Added hook" 
